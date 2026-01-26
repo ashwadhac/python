@@ -3,3 +3,6 @@
 # LINE-1
 # LINE-2
 # ```
+
+a=int(input("Enter the number:"))
+print(a*a)

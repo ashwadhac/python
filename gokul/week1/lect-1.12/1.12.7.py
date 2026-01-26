@@ -4,3 +4,8 @@
 #     x=LINE-2
 #     print(a[x])
 #     ```
+
+a="gokul"
+x=len(a)-1
+print(a[x])
+#     ```

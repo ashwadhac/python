@@ -2,3 +2,5 @@
 #     ```
 #     hello, Gokul , How are you?
 #     ```
+n=input()
+print(f"hello,{n}, How are you?")

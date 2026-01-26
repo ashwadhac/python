@@ -6,3 +6,4 @@ p=str(input())
 n,p=p,n
 print("Hello",n,"How is the weather in" ,p )
 #     ```
+

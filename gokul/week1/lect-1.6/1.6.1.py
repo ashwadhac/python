@@ -2,3 +2,4 @@
 #     ```
 #     print(input("type your name: "))
 #     ```
+print(input("type your name: "))

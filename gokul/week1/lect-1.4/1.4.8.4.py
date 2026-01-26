@@ -1,6 +1,6 @@
 
 # predict the output
-x="10.5"
+x="10"
 a="21"
 b=int(a)
 y=int(x)

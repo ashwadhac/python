@@ -3,4 +3,5 @@
 # n=int(input())
 # print(n)
 # ```
-
+n=float(input())
+print(n)

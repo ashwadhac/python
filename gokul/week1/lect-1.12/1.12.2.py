@@ -6,3 +6,10 @@
 #     print(s=="India")
 #     print(s=="india")
 #     ```
+
+s='india'
+print(s=='india')
+print(s=='India')
+print(s=="India")
+print(s=="india")
+#     ```

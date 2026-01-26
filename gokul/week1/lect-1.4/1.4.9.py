@@ -2,3 +2,6 @@
 # ```
 # LINE-1
 # print(a*2)
+
+a="GOKUL"
+print(a*2)

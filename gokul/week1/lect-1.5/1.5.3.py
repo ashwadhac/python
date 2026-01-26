@@ -3,3 +3,5 @@
 #     n=input()
 #     print("HEllo",n)
 #     ```
+n=input()
+print("HEllo",n)

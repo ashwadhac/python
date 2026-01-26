@@ -5,3 +5,8 @@
 #     n=input()
 #     print("Hello",n,"How is the weather in" ,n )
 #     ```
+
+n="Raja"
+print("Which palce are you in?")
+n=input()
+print("Hello",n,"How is the weather in" ,n )

@@ -6,3 +6,7 @@
 #     print(type(l[2]))
 #     ```
 
+l=[10,20,30]
+print(type(l))
+print(l[2])
+print(type(l[2]))
