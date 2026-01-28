@@ -5,3 +5,6 @@
 # c) _a=10
 # d) $a=10
 # e) A b=10
+
+
+only option c is valid others are not valid

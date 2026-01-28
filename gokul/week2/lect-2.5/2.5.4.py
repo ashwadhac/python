@@ -12,3 +12,6 @@ print(x)
 print(y)
 print(z)
 print(a)
+
+
+multiple line la sentence kudutha triple quotes kudukanu either id it is single or double quotes like (' ' ')or (" " ")')

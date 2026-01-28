@@ -6,3 +6,14 @@
 # Multiply x by 2.
 # Divide x by 3.
 # Print the value of x after each operation.
+
+x=10
+print(x)
+x=x+3
+print(x)
+x=x-4
+print(x)
+x=x*2
+print(x)
+x=x/3
+print(x)
