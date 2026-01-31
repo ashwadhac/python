@@ -18,3 +18,13 @@ INPUT:
 OUTPUT:
     'wbyhhuc'
 '''
+s = input("Enter string: ")    # e.g., 'abcdefg'
+k = int(input("Enter k: "))    # e.g., 2
+
+result = ""
+
+for ch in s:
+    shifted = (ord(ch) - ord('a') + k) % 26 + ord('a')
+    result += chr(shifted)
+
+print(result)

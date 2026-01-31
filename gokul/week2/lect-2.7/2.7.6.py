@@ -17,3 +17,10 @@ OUTPUT: 2
 INPUT:'y'
 OUTPUT: 25
 '''
+# take input from user
+ch = input("Enter a lowercase letter: ")
+
+# find its position in the alphabet
+position = ord(ch) - ord('a') + 1
+
+print(position)

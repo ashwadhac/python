@@ -15,3 +15,9 @@ x="PytHON StRIng METhodS"
 
 
 # swap the case of the string
+x="PytHON StRIng METhodS"
+print(x.lower())
+print(x.upper())
+print(x.capitalize())
+print(x.title())
+print(x.swapcase())
