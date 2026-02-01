@@ -12,3 +12,8 @@ OUTPUT: 'not eligible'
 INPUT: 120000
 OUTPUT: 'eligible'
 '''
+salary=int(input("Enter the salary:"))
+if(salary>90000):
+    print("Eligible")
+else:
+    print("not eligible")

@@ -8,3 +8,4 @@ if age<13:
     print("minor")
 else:
     print("none")
+

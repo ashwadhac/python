@@ -3,3 +3,12 @@
 
 
 # HINT : subtract current year from YOB
+
+YOB=int(input("Enter your year of birth:"))
+currentyear=2026
+currentage=currentyear-YOB
+print("currentage:",currentage)
+if (currentage>=18):
+    print("Eligible to vote")
+else:
+    print("not eligible")
