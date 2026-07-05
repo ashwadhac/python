@@ -2,4 +2,4 @@
 # ```
 # print("hel",,,"eorld")
 # ```
-print("hel",,,"eorld")
+error

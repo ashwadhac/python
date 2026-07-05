@@ -5,3 +5,7 @@
 #     ```
 n=int(input())
 print(n*n)
+
+op:
+3
+9

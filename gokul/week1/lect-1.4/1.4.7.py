@@ -13,3 +13,11 @@ print(n)
 print(n+1)
 print(n+2)
 print(n+3)
+
+op:
+Enter a number:
+7
+7
+8
+9
+10

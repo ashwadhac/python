@@ -5,3 +5,6 @@
 #     ```
 x=True
 print(type(x))
+
+op:
+<class 'bool'>

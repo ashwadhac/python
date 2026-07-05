@@ -19,3 +19,10 @@ input="abcd"
 3 2 d c
 3 3 d d
 '''
+
+input_str = "abcd"
+n = len(input_str)
+
+for i in range(n):
+    for j in range(n):
+        print(i, j, input_str[i], input_str[j])

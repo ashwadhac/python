@@ -5,3 +5,6 @@
 
 s="python"
 print(len(s))
+
+op:
+6

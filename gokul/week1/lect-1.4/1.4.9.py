@@ -3,5 +3,8 @@
 # LINE-1
 # print(a*2)
 
-a="GOKUL"
+a=input()
 print(a*2)
+
+output:
+GOKULGOKUL

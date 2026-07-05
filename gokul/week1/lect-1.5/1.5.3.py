@@ -5,3 +5,7 @@
 #     ```
 n=input()
 print("HEllo",n)
+
+op:
+gokul
+HEllo gokul

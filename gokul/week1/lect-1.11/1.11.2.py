@@ -12,3 +12,12 @@ print(s[1:4])
 print(s[1:5])
 print(s+t)
 #     ```
+
+op:
+c
+o
+f
+3456
+off
+offe
+coffeebread

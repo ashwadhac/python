@@ -16,3 +16,5 @@ x=input("12.2")
 print(type(x))
 x=input("12")
 print(type(x))
+op:
+all three outputs are <class 'str'>

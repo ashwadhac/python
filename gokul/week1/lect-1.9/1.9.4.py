@@ -14,3 +14,7 @@ c=3*b
 print(c)
 d=a+b
 print(d)
+
+op:
+indiaindiaindia
+gokulindia

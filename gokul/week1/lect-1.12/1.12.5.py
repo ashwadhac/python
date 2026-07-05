@@ -10,3 +10,13 @@ print(s[-5])
 print(s[-6])
 
 #     ```
+
+Op:
+p
+n
+o
+h
+t
+y
+p
+

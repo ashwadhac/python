@@ -6,6 +6,9 @@
 #     ```
 
 a="gokul"
-x=len(a)-1
-print(a[x])
+x=len(a)
+print(a[x]-1)
 #     ```
+
+op:
+l

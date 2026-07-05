@@ -6,3 +6,6 @@
 
 x=False
 print(type(x))
+
+op:
+<class 'bool'>

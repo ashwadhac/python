@@ -10,3 +10,11 @@ b
 c
 d
 '''
+
+
+input = "abcd@gmail.com"
+
+for ch in input:
+    if ch == '@':  # stop when @ is found
+        break
+    print(ch)

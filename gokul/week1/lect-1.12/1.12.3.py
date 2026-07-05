@@ -11,3 +11,8 @@ print('four'<'ten')
 print('ab'<'az')
 print('abcde'<'abcdef')
 
+op:
+False
+True
+True
+True

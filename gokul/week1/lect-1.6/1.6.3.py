@@ -2,3 +2,7 @@
 n=int(input("Enter the side of a cube:"))
 volume=n**3
 print(volume)
+
+op:
+Enter the side of a cube: 3
+27

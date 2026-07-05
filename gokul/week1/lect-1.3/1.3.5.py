@@ -3,4 +3,14 @@
 # ```
 # print("hello",12,24.5)
 # ```
+
+print() can print different data types together, such as:
+
+String ("hello")
+Integer (12)
+Float (24.5)
+
 print("hello",12,24.5)
+
+op:
+hello 12 24.5

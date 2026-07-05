@@ -1,7 +1,7 @@
 # modify the  code so that the output is as below
 
-for i in range(10):
-    print(f'1 x [i] = (i)')
+for i in range(2,11):
+    print(f'1 x {i}=',i)
 
 # output:
 '''

@@ -8,6 +8,17 @@
 #     print(True or False)
 #     print(False or False)
 #     print(False or True)
-#     print(not(Ture))
+#     print(not(True))
 #     print(not(False))
 #     ```
+op:
+True
+False
+False
+False
+True
+True
+False
+True
+False
+True

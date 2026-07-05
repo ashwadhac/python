@@ -13,3 +13,8 @@ s="gokul"
 print('n is of type:',type(n))
 print('r is of type:',type(r))
 print('s is of type:',type(s))
+
+op:
+n is of type: <class 'int'>
+r is of type: <class 'float'>
+s is of type: <class 'str'>

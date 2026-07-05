@@ -17,3 +17,13 @@ print(l[0])
 print(type(l[0]))
 print(l[1])
 print(type(l[1]))
+
+
+op:
+<class 'list'>
+30
+<class 'int'>
+10
+<class 'str'>
+20.2
+<class 'float'>

@@ -13,3 +13,9 @@ print(s=='India')
 print(s=="India")
 print(s=="india")
 #     ```
+
+op:
+True
+False
+False
+True

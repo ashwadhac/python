@@ -10,3 +10,6 @@ a="gokul"
 b="india"
 c=a+b
 print(c)
+
+op:
+gokulindia

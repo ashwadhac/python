@@ -13,3 +13,9 @@ b=20
 print(b)
 print(a+b)
 print(a*b)
+
+op:
+10
+20
+30
+200

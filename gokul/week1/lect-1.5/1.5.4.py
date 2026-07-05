@@ -3,3 +3,6 @@
 #     n=input()
 #     n=int(input())
 #     ```
+
+ans:
+first line take a input as string and next one take a input as integer

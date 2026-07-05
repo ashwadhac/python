@@ -6,3 +6,7 @@
 
 n=input()
 print(type(n))
+
+Op:
+5
+<class 'str'>

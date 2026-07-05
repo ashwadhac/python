@@ -5,3 +5,6 @@ area=3.14*r*r
 print(area)
 
 
+op:
+Enter radius of the circle: 2
+12.56

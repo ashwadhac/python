@@ -8,3 +8,6 @@ print(len(l[2]))
 print(len(l[2][2]))
 print(len[l[-1]])
 print(len[l[-2]])
+
+
+integer ooda length varathu so l[-1]vanthu error because -1 vanthu 13 athoa length varathu

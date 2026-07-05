@@ -7,3 +7,7 @@ for i in l:
 
 for i in range(len(l)):
     print(l[i])
+
+
+first code la direct aa element accesss agum 
+second code la index value vachu access agum

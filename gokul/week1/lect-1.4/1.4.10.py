@@ -6,3 +6,7 @@
 
 a=int(input("Enter the number:"))
 print(a*a)
+
+op:
+Enter the number:5
+25
