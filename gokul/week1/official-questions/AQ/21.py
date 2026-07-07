@@ -2,3 +2,9 @@
 # 5. Accept a positive real number 
 # x as input and print 
 # g(x)
+
+import math
+
+x = float(input())
+
+print(math.ceil(x))

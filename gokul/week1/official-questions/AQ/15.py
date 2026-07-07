@@ -2,3 +2,10 @@
 
 # Conditional statements can be used. They will be introduced in the next week. But the challenge is to solve this problem without using conditional statements! As an interesting exercise, can you list down some words that follow this pattern?
 
+word = input()
+print(word[0] == word[-1])
+
+Eg:input:level 
+op:True
+input:hello
+op:False
