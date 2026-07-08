@@ -3,3 +3,4 @@
 x=input()
 print(x.startswith("I")and x.endswith("N"))
 
+
